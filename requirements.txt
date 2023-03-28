@@ -1,0 +1,8 @@
+flake8
+flake8_builtins
+pydocstyle
+pytest==7.2.2
+
+
+
+
